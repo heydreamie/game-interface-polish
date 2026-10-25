@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏界面完善与视觉验收"
+  short_description: "渐进完善游戏界面，融合新版素材或引擎，保留字框动作并验证交付"
+  default_prompt: "使用 $game-interface-polish 完善或融合当前游戏，明确修订基线与章节范围，保留已确认的字框、动画和交互，完成横竖屏验证与交付。"
