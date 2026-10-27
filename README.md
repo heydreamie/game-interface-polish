@@ -6,7 +6,7 @@
 
 ![同一游戏项目的改进前后对比](assets/before-after-preview.gif)
 
-[观看 24 秒对比视频](assets/before-after-demo.mp4) · [下载 Skill 安装包](https://github.com/mengqianyu1216/game-interface-polish/releases/latest) · [查看 Skill 主入口](skills/game-interface-polish/SKILL.md)
+[观看 24 秒对比视频](assets/before-after-demo.mp4) · [下载 Skill 安装包](https://github.com/heydreamie/game-interface-polish/releases/latest) · [查看 Skill 主入口](skills/game-interface-polish/SKILL.md)
 
 ## 从游戏的变化，看工作流的作用
 
@@ -34,7 +34,7 @@
 npx skills add mengqianyu1216/game-interface-polish --skill game-interface-polish -a codex
 ```
 
-或者从 [Releases](https://github.com/mengqianyu1216/game-interface-polish/releases/latest) 下载 ZIP，将 `game-interface-polish` 文件夹放到自己的 Codex `skills` 目录。已有同名版本时先备份再替换，避免重复安装同范围的 Skill。
+或者从 [Releases](https://github.com/heydreamie/game-interface-polish/releases/latest) 下载 ZIP，将 `game-interface-polish` 文件夹放到自己的 Codex `skills` 目录。已有同名版本时先备份再替换，避免重复安装同范围的 Skill。
 
 ## 怎么用
 
